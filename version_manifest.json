@@ -1,14 +1,13 @@
 {
   "manifest_version": 1,
-  "game": "YOUR_GAME_NAME",
   "versions": [
-	{
-	  "version": "0.0.1",
-	  "type": "official",
-	  "file_name": "game-0.0.1.zip",
-	  "download_url": "https://example.com/game-0.0.1.zip",
-	  "size": 0,
-	  "sha256": "PLACEHOLDER"
-	}
+    {
+      "version": "0.0.3",
+      "type": "Official",
+      "installation_name": "Official",
+      "download_url": "https://github.com/zakbazooka/Survive-Tung-Island-Distribution/releases/download/0.0.3/Survive-Tung-Island-0.0.3.zip",
+      "sha256": "",
+      "size": 0
+    }
   ]
 }
