@@ -19,5 +19,5 @@ Official game versions are provided through GitHub Releases.
 
 The Launcher automatically checks the version manifest for available Vanilla versions and can download installed versions when required, can be installed at itch.
 
-Launcher link:
+Official launcher link:
 https://zakbazooka.itch.io/survive-tung-island
