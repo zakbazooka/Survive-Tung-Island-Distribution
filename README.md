@@ -2,14 +2,7 @@
 
 Official distribution repository for Survive Tung Island.
 
-This repository contains:
-
-- Official Vanilla game versions
-- Version manifests
-- Release downloads
-- Version metadata
-
-The Launcher uses the version manifest to detect available game versions and download official releases.
+This repository is for the launcher so it can read the games that needs to be downloaded.
 
 ## Downloads
 
