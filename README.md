@@ -1,4 +1,4 @@
-# Survive Tung Island Distribution
+# Survive Tung Island builds
 
 Official distribution repository for Survive Tung Island.
 
@@ -14,3 +14,6 @@ The Launcher automatically checks the version manifest for available Vanilla ver
 
 Official launcher link:
 https://zakbazooka.itch.io/survive-tung-island
+
+
+Note: *This repository is updated automatically via build scripts. you dont need to download directly from this unless you are debugging the launcher update path.*
