@@ -99,9 +99,9 @@
     }
   ],
   "launcher": {
-      "version": "1.2",
-      "url": "https://github.com/zakbazooka/Survive-Tung-Island-Distribution/releases/download/launcher-1.2/TungLauncher1.2.zip",
-      "size": 36362702,
-      "sha256": "ae4e710ebd601d8e5c0b6b363d5d530cfb6c06a01f1374e9f7bbc404c92ddcbc"
+      "version": "1.3",
+      "url": "https://github.com/zakbazooka/Survive-Tung-Island-Distribution/releases/download/launcher-1.3/TungLauncher1.3.zip",
+      "size": 36371929,
+      "sha256": "b45b98bf341221d20e4534096b7bedba4201e78b6affb8911892a8f152bd799d"
   }
 }
