@@ -98,7 +98,6 @@
       "size": 84203530
     }
   ],
-  ],
   "launchers": [
     {
       "version": "1.1",
@@ -113,5 +112,4 @@
       "sha256": "ae4e710ebd601d8e5c0b6b363d5d530cfb6c06a01f1374e9f7bbc404c92ddcbc"
     }
   ]
-}
 }
