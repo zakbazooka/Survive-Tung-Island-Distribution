@@ -104,6 +104,14 @@
       "download_url": "https://github.com/zakbazooka/Survive-Tung-Island-Distribution/releases/download/0.1.7-alpha.2/SurviveTungIsland0.1.7-alpha.2.zip",
       "sha256": "b0986d6968cff1de757e0439dced9812c8a20dec6f99795df434261c8943922d",
       "size": 85623502
+    },
+                {
+      "version": "0.1.7-alpha.3",
+      "type": "Official",
+      "installation_name": "Official",
+      "download_url": "https://github.com/zakbazooka/Survive-Tung-Island-Distribution/releases/download/0.1.7-alpha.3/SurviveTungIsland0.1.7-alpha.3.zip",
+      "sha256": "500bd9c7a79fd2ad27591f50089aefe635fda030705877a4a6f605e605ef36f1",
+      "size": 85628971
     }
   ],
   "launcher": {
